@@ -1,6 +1,7 @@
 # Подключил инструменты локаторы и веб драйвер
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+# Импортировал рабочие модули время и математика
 import time
 import math
 
